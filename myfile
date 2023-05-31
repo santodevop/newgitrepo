@@ -1,0 +1,9 @@
+this is first code written in myfile
+int main swap(a,b)
+{
+ int i=a;
+ int j=b;
+ j=a;
+ i=a;
+ return;
+}
